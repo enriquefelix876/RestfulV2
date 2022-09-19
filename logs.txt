@@ -1,0 +1,30 @@
+2022-09-19 13:22:59.275  INFO 3736 --- [http-nio-8080-exec-5] c.t.w.controller.UserController          : Someone has accessed user information with ID 2
+2022-09-19 13:23:48.018  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : Starting RestfulV2Application using Java 18.0.1.1 on DESKTOP-H4RQ1Q7 with PID 3736 (C:\Users\enriq\eclipse-workspace\RestfulV2\target\classes started by enriq in C:\Users\enriq\eclipse-workspace\RestfulV2)
+2022-09-19 13:23:48.019  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : No active profile set, falling back to 1 default profile: "default"
+2022-09-19 13:23:49.222  WARN 3736 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-09-19 13:23:49.882  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : Started RestfulV2Application in 1.91 seconds (JVM running for 653.475)
+2022-09-19 13:23:50.444 ERROR 3736 --- [http-nio-8080-exec-1] c.t.w.controller.UserController          : Invalid user ID 10
+2022-09-19 13:23:50.468  WARN 3736 --- [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.tcs.webservices.exceptions.UserNotFoundException: id:10]
+2022-09-19 13:25:23.486  WARN 3736 --- [http-nio-8080-exec-6] c.t.w.controller.UserController          : Somebody accessed to the User List
+2022-09-19 13:27:26.887  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : Starting RestfulV2Application using Java 18.0.1.1 on DESKTOP-H4RQ1Q7 with PID 3736 (C:\Users\enriq\eclipse-workspace\RestfulV2\target\classes started by enriq in C:\Users\enriq\eclipse-workspace\RestfulV2)
+2022-09-19 13:27:26.888  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : No active profile set, falling back to 1 default profile: "default"
+2022-09-19 13:27:28.017  WARN 3736 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-09-19 13:27:28.564  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : Started RestfulV2Application in 1.707 seconds (JVM running for 872.157)
+2022-09-19 13:27:29.685 ERROR 3736 --- [http-nio-8080-exec-1] c.t.w.controller.UserController          : Invalid user ID 10
+2022-09-19 13:27:29.695  WARN 3736 --- [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.tcs.webservices.exceptions.UserNotFoundException: id:10]
+2022-09-19 13:27:38.833  WARN 3736 --- [http-nio-8080-exec-2] c.t.w.controller.UserController          : Access to the User List
+2022-09-19 13:27:52.422  INFO 3736 --- [http-nio-8080-exec-3] c.t.w.controller.UserController          : The information of the user with ID 2 has been retrieved
+2022-09-19 13:28:13.932  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : Starting RestfulV2Application using Java 18.0.1.1 on DESKTOP-H4RQ1Q7 with PID 3736 (C:\Users\enriq\eclipse-workspace\RestfulV2\target\classes started by enriq in C:\Users\enriq\eclipse-workspace\RestfulV2)
+2022-09-19 13:28:13.932  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : No active profile set, falling back to 1 default profile: "default"
+2022-09-19 13:28:14.438  WARN 3736 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-09-19 13:28:14.809  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : Started RestfulV2Application in 0.9 seconds (JVM running for 918.401)
+2022-09-19 13:28:53.026  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : Starting RestfulV2Application using Java 18.0.1.1 on DESKTOP-H4RQ1Q7 with PID 3736 (C:\Users\enriq\eclipse-workspace\RestfulV2\target\classes started by enriq in C:\Users\enriq\eclipse-workspace\RestfulV2)
+2022-09-19 13:28:53.027  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : No active profile set, falling back to 1 default profile: "default"
+2022-09-19 13:28:53.675  WARN 3736 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-09-19 13:28:54.174  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : Started RestfulV2Application in 1.179 seconds (JVM running for 957.767)
+2022-09-19 13:29:07.928  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : Starting RestfulV2Application using Java 18.0.1.1 on DESKTOP-H4RQ1Q7 with PID 3736 (C:\Users\enriq\eclipse-workspace\RestfulV2\target\classes started by enriq in C:\Users\enriq\eclipse-workspace\RestfulV2)
+2022-09-19 13:29:07.928  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : No active profile set, falling back to 1 default profile: "default"
+2022-09-19 13:29:08.542  WARN 3736 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-09-19 13:29:09.104  INFO 3736 --- [restartedMain] c.tcs.webservices.RestfulV2Application   : Started RestfulV2Application in 1.202 seconds (JVM running for 972.696)
+2022-09-19 13:29:22.863  WARN 3736 --- [http-nio-8080-exec-2] c.t.w.controller.UserController          : A new user has been created: User [id=5, name=Fernando Lopez, birthDate=1991-09-19]
+2022-09-19 13:29:46.377  WARN 3736 --- [http-nio-8080-exec-4] c.t.w.controller.UserController          : Access to the User List
